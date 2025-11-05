@@ -1,0 +1,11 @@
+C:\Users\adolf\Documents\Programación_Estructurada\S_11\Ej02\Ej02\obj\Debug\Ej02.csproj.AssemblyReference.cache
+C:\Users\adolf\Documents\Programación_Estructurada\S_11\Ej02\Ej02\obj\Debug\Ej02.Form1.resources
+C:\Users\adolf\Documents\Programación_Estructurada\S_11\Ej02\Ej02\obj\Debug\Ej02.Properties.Resources.resources
+C:\Users\adolf\Documents\Programación_Estructurada\S_11\Ej02\Ej02\obj\Debug\Ej02.csproj.GenerateResource.cache
+C:\Users\adolf\Documents\Programación_Estructurada\S_11\Ej02\Ej02\obj\Debug\Ej02.csproj.CoreCompileInputs.cache
+C:\Users\adolf\Documents\Programación_Estructurada\S_11\Ej02\Ej02\bin\Debug\Ej02.exe.config
+C:\Users\adolf\Documents\Programación_Estructurada\S_11\Ej02\Ej02\bin\Debug\Ej02.exe
+C:\Users\adolf\Documents\Programación_Estructurada\S_11\Ej02\Ej02\bin\Debug\Ej02.pdb
+C:\Users\adolf\Documents\Programación_Estructurada\S_11\Ej02\Ej02\obj\Debug\Ej02.exe
+C:\Users\adolf\Documents\Programación_Estructurada\S_11\Ej02\Ej02\obj\Debug\Ej02.pdb
+C:\Users\adolf\Documents\Programación_Estructurada\S_11\Ej02\Ej02\obj\Debug\Ej02.exe.config
